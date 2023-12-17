@@ -1,7 +1,5 @@
-## All textures in the following directories are labled under CC-BY-NC-SA 4.0
-- RSS-Textures/PluginData/00_Sun
-- RSS-Textures/PluginData/01_Mercury
-- RSS-Textures/PluginData/02_Venus
+## All textures in the following directory are labled under CC-BY-NC-SA 4.0
+- RSS-Textures/PluginData/03_Earth
 
  You are free to:
 
