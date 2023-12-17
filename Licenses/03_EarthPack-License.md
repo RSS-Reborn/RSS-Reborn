@@ -5,6 +5,8 @@ Color Source: https://visibleearth.nasa.gov/images/74117/august-blue-marble-next
 
 Height Source: https://www.gebco.net/data_and_products/gridded_bathymetry_data/
 
+---
+
  You are free to:
 
     Share — copy and redistribute the material in any medium or format
