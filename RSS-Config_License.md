@@ -1,4 +1,4 @@
-## All configs in RSS-Reborn are labled under CC-BY-NC-SA 4.0
+## All configs in RSS-Configs are labled under CC-BY-NC-SA 4.0
 
  You are free to:
 
