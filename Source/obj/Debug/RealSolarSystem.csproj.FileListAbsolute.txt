@@ -1,0 +1,6 @@
+C:\Users\Flame\OneDrive\Documents\GitHub\RSS-Reborn\Source\obj\Debug\RealSolarSystem.csproj.CoreCompileInputs.cache
+C:\Users\Flame\OneDrive\Documents\GitHub\RSS-Reborn\GameData\RealSolarSystem\Plugins\RealSolarSystem.dll
+C:\Users\Flame\OneDrive\Documents\GitHub\RSS-Reborn\GameData\RealSolarSystem\Plugins\RealSolarSystem.pdb
+C:\Users\Flame\OneDrive\Documents\GitHub\RSS-Reborn\Source\obj\Debug\RealSolarSystem.dll
+C:\Users\Flame\OneDrive\Documents\GitHub\RSS-Reborn\Source\obj\Debug\RealSolarSystem.pdb
+C:\Users\Flame\OneDrive\Documents\GitHub\RSS-Reborn\Source\obj\Debug\RealSolarSystem.csproj.AssemblyReference.cache
