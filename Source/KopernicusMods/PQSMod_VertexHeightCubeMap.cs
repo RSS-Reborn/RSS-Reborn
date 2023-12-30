@@ -3,6 +3,7 @@
  * Available from https://github.com/StollD/KopernicusExpansion-Continued
  */
 
+/*
 using System;
 using UnityEngine;
 
@@ -145,3 +146,4 @@ namespace RealSolarSystem
         }
     }
 }
+*/

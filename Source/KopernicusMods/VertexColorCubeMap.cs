@@ -3,6 +3,7 @@
  * Available from https://github.com/StollD/KopernicusExpansion-Continued
  */
 
+/*
 using System;
 using Kopernicus.ConfigParser.Attributes;
 using Kopernicus.ConfigParser.BuiltinTypeParsers;
@@ -52,3 +53,4 @@ namespace RealSolarSystem
         }
     }
 }
+*/

@@ -1,4 +1,6 @@
-﻿using System;
+﻿/*
+
+using System;
 using Kopernicus.ConfigParser.Attributes;
 using Kopernicus.ConfigParser.BuiltinTypeParsers;
 using Kopernicus.Configuration.ModLoader;
@@ -70,3 +72,4 @@ namespace RealSolarSystem.KopernicusMods
         }
     }
 }
+*/

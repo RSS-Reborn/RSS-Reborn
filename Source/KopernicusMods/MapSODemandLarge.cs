@@ -1,8 +1,11 @@
-﻿/* 
+﻿
+/* 
  * This code is adapted from Kopernicus
  * Available from https://github.com/Kopernicus/Kopernicus
  */
 
+
+/*
 using System;
 using System.IO;
 using DDSHeaders;
@@ -1020,3 +1023,4 @@ namespace RealSolarSystem
         }
     }
 }
+*/
