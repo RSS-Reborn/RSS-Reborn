@@ -19,3 +19,10 @@ Luna - 119m per pixel
 ![screenshot2208](https://github.com/RSS-Reborn/RSS-Reborn/assets/77298148/f8026365-25a5-4ddb-805d-b3daeca5691d)
 ![screenshot2186](https://github.com/RSS-Reborn/RSS-Reborn/assets/77298148/c0af2223-b47c-4591-9217-dd4c1266088a)
 
+---
+
+Support this project on our various patreons!
+
+- <img src="https://github.com/RSS-Reborn/RSS-Reborn/assets/77298148/c1214024-691b-4685-877e-58cd9a537227" width="25" height="25"> | [ballisticfox](https://www.patreon.com/ballisticfox)
+- <img src="https://github.com/RSS-Reborn/RSS-Reborn/assets/77298148/4b783380-0484-49da-9b90-40ff3ac68c11" width="25" height="25"> | [Techo](https://www.patreon.com/Techo589)
+- <img src="https://github.com/RSS-Reborn/RSS-Reborn/assets/77298148/30cdd321-4820-4a25-9b34-6ef3cdd0f811" width="25" height="25"> | [VaNnadin](https://www.patreon.com/VaNnadinstudio)
