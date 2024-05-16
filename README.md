@@ -1,5 +1,21 @@
 # RSS-Reborn
-A custom fork of RealSolarSystem intending to be the bleeding edge of KSP.
+Real Solar System: Reborn is a mod currently developed by ballisticfox, Charon_S, VaNnadin and Techo.
+
+RSS: Reborn intends to represent the bleeding edge of Kerbal Space Program, with never before seen terrain detail and support for blackrack's latest Volumetric Cloud developments and Parallax scatters.
 
 
-Download it: [here](https://docs.google.com/document/d/1BfiIZ8_ZEh0lrx0nsIa27Lm7O2R4e2fKPli94XHga0Q/edit)
+
+
+### This page is WIP, download the current version [here](https://docs.google.com/document/d/1BfiIZ8_ZEh0lrx0nsIa27Lm7O2R4e2fKPli94XHga0Q/edit)
+
+
+---
+
+Earth - 463m per pixel
+![screenshot2070](https://github.com/RSS-Reborn/RSS-Reborn/assets/77298148/81cc0a27-642c-4454-a0fe-be98f09839da)
+![screenshot2102](https://github.com/RSS-Reborn/RSS-Reborn/assets/77298148/d7882f33-515e-49c9-8a09-98dc2c6f8d4a)
+
+Luna - 119m per pixel
+![screenshot2208](https://github.com/RSS-Reborn/RSS-Reborn/assets/77298148/f8026365-25a5-4ddb-805d-b3daeca5691d)
+![screenshot2186](https://github.com/RSS-Reborn/RSS-Reborn/assets/77298148/c0af2223-b47c-4591-9217-dd4c1266088a)
+
