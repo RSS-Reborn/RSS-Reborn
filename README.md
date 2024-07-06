@@ -3,6 +3,8 @@ Real Solar System: Reborn is a mod currently developed by ballisticfox, with fre
 
 RSS: Reborn intends to represent the bleeding edge of Kerbal Space Program, with never before seen terrain detail and support for blackrack's latest Volumetric Cloud developments and Parallax scatters.
 
+NOTE: this fork was made for comedic purposes, and is licensed under CC-BY-NC-SA 4.0, ballisticfox have mercy dont sue me!
+
 
 
 
