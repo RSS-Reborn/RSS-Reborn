@@ -9,10 +9,7 @@ IMPORTANT LEGAL DISCLAIMER: this fork was made for comedic purposes, and is lice
 - real rss reborn: https://github.com/RSS-Reborn/RSS-Reborn
 
 
-
-
-
-### This page is WIP, download the current version [here](https://docs.google.com/document/d/1BfiIZ8_ZEh0lrx0nsIa27Lm7O2R4e2fKPli94XHga0Q/edit)
+### The GitHub version of RSS-Reborn is currently in its pre-release phase, check the installation wiki here: https://github.com/RSS-Reborn/RSS-Reborn/wiki/Installation
 
 
 ---
